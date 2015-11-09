@@ -1,0 +1,27 @@
+{
+  "name": "React-flux",
+  "version": "0.0.1",
+  "description": "Example Flux architecture.",
+  "repository": "https://github.com/akifo/react-flux",
+  "author": "akiho",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.5",
+    "classnames": "^2.2.0",
+    "flux": "^2.0.1",
+    "keymirror": "~0.1.0",
+    "object-assign": "^1.0.0",
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-plumber": "^1.0.1",
+    "jsx-loader": "^0.13.2",
+    "rimraf": "^2.4.3",
+    "webpack": "^1.12.2"
+  }
+}
