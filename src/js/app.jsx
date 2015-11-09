@@ -1,8 +1,8 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var TeamApp = require('./components/TeamApp.react');
+var TodoApp = require('./components/TodoApp.react');
 
 ReactDOM.render(
-  <TeamApp />,
+  <TodoApp />,
   document.getElementById('app')
 );
